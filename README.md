@@ -1,2 +1,3 @@
-# day-to-day
-Blog personal
+# Day to Day
+
+Blog personal de programación, diseño y curiosidades.
